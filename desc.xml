@@ -2,15 +2,16 @@
 <!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
 <repositories xmlns="" version="1.0">
   <repo quality="experimental" status="unofficial">
-  <name><![CDATA[kniolet]]></name>
-  <description><![CDATA[Katrina Niolet's Gentoo/Sabayon Overlay]]></description>
-  <homepage>https://github.com/katrinaniolet/gentoo-overlay</homepage>
+  <name>kniolet</name>
+  <description>Katrina Niolet's Gentoo/Sabayon Overlay</description>
+  <homepage>https://github.com/prototype99/kniolet</homepage>
   <owner>
-    <email><![CDATA[katrina.niolet@kdab.com]]></email>
-    <name><![CDATA[Katrina Niolet]]></name>
+    <email>sophietheopossum@yandex.com</email>
+    <name>seirra blake</name>
   </owner>
-  <source type="git">git://github.com/katrinaniolet/gentoo-overlay.git</source>
-  <feed>https://github.com/katrinaniolet/gentoo-overlay/commits/master.atom</feed>
+  <source type="git">https://github.com/prototype99/kniolet.git</source>
+  <source type="git">git://github.com/prototype99/kniolet.git</source>
+  <feed>https://github.com/prototype99/kniolet/commits/master.atom</feed>
   </repo>
 </repositories>
 
